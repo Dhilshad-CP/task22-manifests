@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: task22-app
-        image: dhilshad/task22-app:9
+        image: dhilshad/task22-app:13
         ports:
         - containerPort: 3000
